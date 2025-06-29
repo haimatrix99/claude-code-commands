@@ -73,6 +73,12 @@ The commands utilize shared pattern files for consistency:
 
 Once installed, the commands will be available in your Claude Code sessions. Simply reference them in your CLAUDE.md configuration or use them directly in your conversations.
 
+## References
+
+Related repositories and resources:
+- [claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder) - Requirements builder for Claude Code
+- [SuperClaude](https://github.com/NomenAK/SuperClaude) - Enhanced configuration framework for Claude
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
